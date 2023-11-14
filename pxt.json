@@ -1,14 +1,15 @@
 {
-    "name": "Ohne Titel",
-    "description": "",
+    "name": "storage",
+    "description": "Storage provides a simple way to store data on the micro:bit that persists through power cycles.",
     "dependencies": {
-        "core": "*",
-        "v2": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "strage.ts",
+        "storage.cpp"
     ],
     "testFiles": [
         "test.ts"
