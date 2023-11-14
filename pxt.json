@@ -8,9 +8,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "strage.ts",
+        "storage.ts",
         "storage.cpp",
-        "shim.d.ts",
+        "shims.d.ts",
         "enums.d.ts"
     ],
     "testFiles": [
