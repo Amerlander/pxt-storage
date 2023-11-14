@@ -9,7 +9,9 @@
         "main.ts",
         "README.md",
         "strage.ts",
-        "storage.cpp"
+        "storage.cpp",
+        "shim.d.ts",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
